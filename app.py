@@ -94,7 +94,7 @@ st.markdown("""
 - [Medium](https://medium.com/@chebetmercy006)
 """)
 
-#Creating a Side Bar in the Homepage
+# Creating a Side Bar in the Homepage
 st.sidebar.success("Select a page")
 st.sidebar.title ("Home")
 st.sidebar.markdown("View Data")
